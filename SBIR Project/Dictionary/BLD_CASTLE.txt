@@ -1,0 +1,4 @@
+(n) palace, castle (a large and stately mansion)
+(n) castle (a large building formerly occupied by a ruler and fortified against attack)
+(n) castle, rook ((chess) the piece that can move any number of unoccupied squares in a direction parallel to the sides of the chessboard)
+(n) castle, castling (interchanging the positions of the king and a rook)

@@ -1,0 +1,1 @@
+A Uniform Resource Identifier (URI) is a string of characters that unambiguously identifies a particular resource for individual of class.

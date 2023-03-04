@@ -1,0 +1,7 @@
+(n) Path (computing), in file systems, the human-readable address of an image
+(n) PATH (variable), in computing, a way to specify a list of directories containing executable programs
+(n) Path (graph theory), a sequence of edges of a graph that form a trail
+st-connectivity problem, sometimes known as the "path problem"
+(n) Path (topology), a continuous function
+(n) Path, a name for the vectors in vector graphics
+(n) Clipping path, in digital image processing

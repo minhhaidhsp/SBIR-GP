@@ -1,0 +1,14 @@
+﻿0
+0
+0
+False True
+#NONE#
+#NONE#
+(Root.txt) (listRootED.txt) (listRootEC.txt)
+0
+1
+(#NONE#)
+(Cluster_1)
+(#NONE#) (#NONE#)
+#NONE#
+0

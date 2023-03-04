@@ -1,0 +1,14 @@
+animal: mammal
+mammal: mammal-other
+mammal-other: elephant, horse, dinosaur 
+food: meal
+person: peoples
+landscape-nature: mountain, beach
+vegetation: flowerbed
+flowerbed: flower
+man-made: construction, vehicle
+construction: edifice
+edifice: castle
+vehicle: ground-vehicles
+ground-vehicles: vehicles-with-tires
+vehicles-with-tires: bus

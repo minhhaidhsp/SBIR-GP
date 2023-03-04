@@ -1,0 +1,3 @@
+(n) Keyword (computer programming), word or identifier that has a particular meaning to the programming language
+(n) Keyword (cryptography), word used as the key to determine the letter matching of the cipher alphabet to the plain alphabet
+(n) Keyword (Internet search), a word or phrase typically used by bloggers or online content creator to rank a web page on a particular topic

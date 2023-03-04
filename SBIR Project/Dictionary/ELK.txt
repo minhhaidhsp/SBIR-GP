@@ -1,0 +1,3 @@
+(n) elk, moose, Alces alces (large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America)
+(n) wapiti, elk, American elk, Cervus elaphus canadensis (large North American deer with large much-branched antlers in the male)
+(n) red deer, elk, American elk, wapiti, Cervus elaphus (common deer of temperate Europe and Asia)

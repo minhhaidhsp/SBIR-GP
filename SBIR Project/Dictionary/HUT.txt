@@ -1,0 +1,2 @@
+(n) hut, army hut, field hut (temporary military shelter)
+(n) hovel, hut, hutch, shack, shanty (small crude shelter used as a dwelling)

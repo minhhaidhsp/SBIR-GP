@@ -1,0 +1,14 @@
+1
+0
+1
+True False
+0
+#NONE#
+(Cluster_1.txt) (listCluster_1ED.txt) (listCluster_1EC.txt)
+1
+0
+(#NONE#)
+(#NONE#)
+(#NONE#) (#NONE#)
+0
+#NONE#

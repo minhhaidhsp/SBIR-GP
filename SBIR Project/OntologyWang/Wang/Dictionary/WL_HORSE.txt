@@ -1,0 +1,5 @@
+(n) horse, Equus caballus (solid-hoofed herbivorous quadruped domesticated since prehistoric times)
+(n) horse, gymnastic horse (a padded gymnastic apparatus on legs)
+(n) cavalry, horse cavalry, horse (troops trained to fight on horseback) "500 horse led the attack"
+(n) sawhorse, horse, sawbuck, buck (a framework for holding wood that is being sawed)
+(n) knight, horse (a chessman shaped to resemble the head of a horse; can move two squares horizontally and one vertically (or vice versa))

@@ -1,0 +1,3 @@
+(n) description, verbal description (a statement that represents something in words, for annotation properties)
+(n) description (the act of describing something)
+(n) description (sort or variety) "every description of book was there"

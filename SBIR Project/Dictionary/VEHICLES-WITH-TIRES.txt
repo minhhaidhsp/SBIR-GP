@@ -1,0 +1,1 @@
+(n) vehicles-with-tires (vehicles with tires)

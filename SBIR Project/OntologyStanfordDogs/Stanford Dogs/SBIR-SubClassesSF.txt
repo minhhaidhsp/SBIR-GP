@@ -1,0 +1,38 @@
+Dog: Hunting_dog, Corgi, Mexican_hairless, Newfoundland, Poodle, Basenji, Leonberg, Griffon, Pug, Spitz, Great_Pyrenees, Toy_dog, Working_dog, Cuon
+Cuon: Dhole
+Hunting dog: Sporting_dog, Terrier, Hound, Rhodesian_ridgeback, African_hunting_dog
+Sporting_dog: Pointer, Setter, Spaniel, Retriever
+Pointer: German_short-haired_pointer, Vizsla 
+Setter: English_setter, Gordon_setter, Irish_setter
+Spaniel: Sussex_spaniel, Water_spaniel, Springer_spaniel, Clumber, Brittany_spaniel, Cocker_spaniel
+Water_spaniel: Irish_water_spaniel
+Springer_spaniel: English_springer, Welsh_springer_spaniel
+Retriever: Chesapeake_Bay_retriever, Curly-coated_retriever, Flat-coated_retriever, Golden_retriever, Labrador_retriever
+Terrier: Australian_terrier, Fox_terrier, Soft-coated_wheaten_terrier, Wire-haired_terrier, Dandie_Dinmont, Airedale, Lhasa, Yorkshire_terrier, West_Highland_white_terrier, Schnauzer, Bullterrier, Norfolk_terrier, Cairn, Kerry_blue_terrier, Scotch_terrier, Boston_bull, Bedlington_terrier, Irish_terrier, Silky_terrier, Norwich_terrier, Tibetan_terrier, Border_terrier
+Australian_terrier: Dingo
+Fox_terrier: Wire-haired_fox_terrier
+Wire-haired_terrier: Lakeland_terrier, Welsh_terrier
+Welsh_terrier: Sealyham_terrier
+Schnauzer: Giant_schnauzer, Miniature_schnauzer, Standard_schnauzer
+Bullterrier: American_Staffordshire_terrier, Staffordshire_bullterrier 
+Hound: Wolfhound, Scottish_deerhound, Coonhound, Foxhound, Weimaraner, Otterhound, Bloodhound, Norwegian_elkhound, Saluki, Afghan_hound, Greyhound, Beagle, Basset, Bluetick, Redbone, Ibizan_hound
+Wolfhound: Borzoi, Irish_wolfhound 
+Coonhound: Black-and-tan_coonhound
+Foxhound: English_foxhound, Walker_hound
+Greyhound: Italian_greyhound, Whippet
+Corgi: Cardigan, Pembroke
+Poodle: Standard_poodle, Toy_poodle, Miniature_poodle
+Griffon: Brabancon_griffon
+Spitz: Pomeranian, Keeshond, Chow, Samoyed
+Toy_dog: Toy_terrier, Japanese_spaniel, Pekinese, Maltese_dog, Shih-Tzu, Chihuahua, Toy_spaniel
+Toy_spaniel: Papillon, English_toy _spaniel
+English_toy _spaniel: Blenheim_spaniel
+Working_dog: Great_Dane, Sheepdog, Watchdog, Sledge_dog, Boxer, Bull_mastiff, Eskimo_dog, Sennenhunde, Saint_Bernard, Mastiff, Bulldog
+Sheepdog: Old_English_sheepdog, Shetland_sheepdog, Rottweiler, Bouvier_des_Flandres, Komondor, Collie, Border_collie, Belgian_sheepdog, Kelpie, Briard, German_shepherd  
+Belgian_sheepdog: Malinois, Groenendael
+Watchdog: Schipperke, Kuvasz, Pinscher
+Pinscher: Affenpinscher, Miniature_pinscher, Doberman
+Sledge_dog: Siberian_husky, Malamute
+Sennenhunde: EntleBucher, Bernese_mountain_dog, Greater_Swiss_Mountain_dog, Appenzeller
+Mastiff: Tibetan_mastiff
+Bulldog: French_bulldog

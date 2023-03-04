@@ -1,0 +1,9 @@
+
+(n) table, tabular array (a set of data arranged in rows and columns) "see table 1"
+(n) table (a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs) "it was a sturdy table"
+(n) table (a piece of furniture with tableware for a meal laid out on it) "I reserved a table at my favorite restaurant"
+(n) mesa, table (flat tableland with steep edges) "the tribe was relatively safe on the mesa but they had to descend into the valley for water"
+(n) table (a company of people assembled at a table for a meal or game) "he entertained the whole table with his witty remarks"
+(n) board, table (food or meals in general) "she sets a fine table"; "room and board"
+(v) postpone, prorogue, hold over, put over, table, shelve, set back, defer, remit, put off (hold back to a later time) "let's postpone the exam"
+(v) table, tabularize, tabularise, tabulate (arrange or enter in tabular form)

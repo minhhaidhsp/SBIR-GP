@@ -1,0 +1,52 @@
+animal: flock-of-birds, herd-of-mammals, school-of-fishes, bird, insect, mammal, ocean-animal, reptile
+bird: eagle, flamingo, fowl-hen, hawk, owl, parrot, penguin, pigeon, rooster		
+insect: ant, beetle, butterfly, caterpillar, dragonfly, scorpion		
+mammal: antelope, canine, feline, mammal-other, primate, rodent
+antelope: deer, caribou, elk
+canine: dog, coyote, fox, wolf
+feline: cat, cougar-puma, bobcat-wildcat, leopard, lion, tiger, cheetah, lynx, jaguar
+mammal-other: bear, bull, camel, elephant, cow, giraffe, goat, horse, llama, marsupial, sheep, zebra, rhinoceros 
+bear: panda, polar-bear
+marsupial: kangaroo, koala 
+primate: ape, mandril, monkey
+rodent: beaver, hedgehog-porcupine, rabbit, squirrel
+ocean-animal: crab, coral, dolphin, fish, lobster, octopus, seahorse, seal, shell, starfish, whale
+reptile: crocodile, lizard, snake, turtle
+lizard: iguana
+food: dish, fruit, vegetable
+fruit: apple, grapes, orange, strawberry 
+person: couple-of-persons, group-of-persons, face-of-person, hand-of-person, head-of-person, baby, child, diver, man, rafter, woman, astronaut
+child: child-boy, child-girl
+landscape-nature: cloud, ground, rock, sky, sun, water, arctic, beach, desert, island, mountain, vegetation
+sky: sky-blue, sky-light, sky-night, sky-red-sunset-dusk
+water: water-reflection, waves, lake, ocean, river, waterfall
+arctic: glacier, ice, snow
+beach: sand-beach, shore
+desert: sand-desert
+mountain: hill, volcano
+vegetation: Cactus, flowerbed, grass, mushroom, plant, trees
+flowerbed: flower
+plant: leaf
+trees: branch, trunk, bush, palm, tree
+man-made: city, construction, fabric, floor, furniture, handcraft, man-made-other, musical-instrument, vehicle
+construction: construction-other, edifice, monument, road
+construction-other: bridge, swimming-pool
+edifice: chimney, church-interior, column, roof, stairs, wall, ancent-building, building, cabin, castle, church, house, hut, lighthouse, pagoda, tower
+ancent-building: pyramid, ruin-archeological
+monument: fountain, statue
+road: highway, sidewalk, street, railroad
+fabric: cloth, curtain, flag
+floor: floor-carpet, floor-other, floor-tennis-court, floor-wood
+furniture: bed, bench, chair , desk, door, furniture-other, table, window
+furniture-other: non-wooden-furniture, wooden-furniture
+handcraft: jewelry, mural-carving, painting
+man-made-other: generic-objects, person-related-objects
+generic-objects: balloon, ball, cannon, clock, fence, firework, lamp, paper, plant-pot, public-sign, screen, semaphore, tire, trash
+person-related-objects: book, bottle, camera, can, cup, glass, hat, kitchen-pot, surfboard, telephone, toy, umbrella
+musical-instrument: cello, guitar, horn, piano, trombone, saxophone, trumpet, viola, violin
+vehicle: air-vehicles, ground-vehicles, water-vehicles
+air-vehicles: airplane, helicopter, aerostatic-balloon, space-shuttle
+ground-vehicles: train, vehicles-with-tires
+vehicles-with-tires: motorcycle, bicycle, bus, car
+water-vehicles: boat, boat-rafting, ship
+other-entity: fire, log, nest, smoke, steam, wood

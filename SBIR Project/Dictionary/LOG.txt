@@ -1,0 +1,5 @@
+(n) log (a segment of the trunk of a tree when stripped of branches)
+(n) logarithm, log (the exponent required to produce a given number)
+(n) log (a written record of messages sent or received) "they kept a log of all transmission by the radio station"; "an email log"
+(n) log (a written record of events on a voyage (of a ship or plane))
+(n) log (measuring instrument that consists of a float that trails from a ship by a knotted line in order to measure the ship's speed through the water)

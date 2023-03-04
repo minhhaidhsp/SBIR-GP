@@ -1,0 +1,1 @@
+(n) wooden-furniture (Furniture has been made in wood)

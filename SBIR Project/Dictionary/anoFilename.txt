@@ -1,0 +1,1 @@
+(n) filename, file name, computer filename, computer file name ((computer science) the name given to a computer file in order to distinguish it from other files; may contain an extension that indicates the type of file, for annotation properties)
